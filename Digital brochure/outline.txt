@@ -1,0 +1,34 @@
+﻿OUTLINE NỘI DUNG 
+DIGITAL BROCHURE TWIN AI
+PHẦN MỞ ĐẦU: KHƠI GỢI & ĐẶT VẤN ĐỀ
+* Trang 1: Trang Bìa - Lời Mở Đầu Gây Ấn Tượng
+   * 1.1. Tiêu đề chính (Headline)
+   * 1.2. Tiêu đề phụ (Sub-headline)
+   * 1.3. Yếu tố Tương tác (Kêu gọi lướt xuống)
+* Trang 2: Vấn Đề Cốt Lõi - Thấu Hiểu Thách Thức
+   * 2.1. Đặt vấn đề: "Bạn có thấy những điều này quen thuộc?"
+   * 2.2. Danh sách các "Nỗi đau" chính trong Kỷ nguyên AI
+PHẦN GIẢI PHÁP: GIỚI THIỆU TWIN AI
+* Trang 3: Tuyên Bố Giải Pháp
+   * 3.1. Giới thiệu Twin AI
+   * 3.2. Định nghĩa "Trợ lý AI Chiến lược"
+* Trang 4-5: Sức Mạnh Vượt Trội của Twin AI (USPs)
+   * 4.1. Điểm khác biệt #1: Cơ chế Agent Đa tầng
+   * 4.2. Điểm khác biệt #2: Được huấn luyện bởi Chuyên gia Thật
+* Trang 6: Giá Trị Cốt Lõi Bạn Nhận Được (Key Benefits)
+   * 6.1. Lợi ích 1: Giải phóng Thời gian
+   * 6.2. Lợi ích 2: Nâng tầm Tư duy
+   * 6.3. Lợi ích 3: Kiến tạo Kết quả
+* Trang 7: Đối Tượng Phù Hợp - Cá Nhân Hóa Giải Pháp
+   * 7.1. Twin AI dành cho ai? (C-Level, Chuyên viên, Chuyên gia)
+PHẦN THUYẾT PHỤC: MINH CHỨNG & TRẢI NGHIỆM
+* Trang 8: Minh Họa Sản Phẩm
+   * 8.1. "Xem Twin AI hành động" (Video/GIF Demo hoặc Case Study ngắn)
+* Trang 9: Bằng Chứng Xã Hội (Social Proof)
+   * 9.1. Trích dẫn từ Khách hàng (Testimonials)
+   * 9.2. Logo các Khách hàng/Đối tác tiêu biểu
+PHẦN KẾT: KÊU GỌI HÀNH ĐỘNG (CALL TO ACTION)
+* Trang 10: Trang Kêu Gọi Hành Động
+   * 10.1. Tiêu đề CTA
+   * 10.2. Các nút Hành động chính (Demo, Bảng giá, Tư vấn)
+   * 10.3. Thông tin Liên hệ chi tiết

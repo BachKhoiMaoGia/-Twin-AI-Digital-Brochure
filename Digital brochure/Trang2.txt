@@ -1,0 +1,59 @@
+﻿Trang 2: Đặt Vấn Đề - Thấu Hiểu Thách Thức
+I. NỘI DUNG CHÍNH (COPYWRITING)
+* 1.1. Tiêu đề chính (Headline):
+   * Một câu hỏi mở đầu mang tính gợi mở, đồng cảm và mời gọi người xem tự đối chiếu với tình hình của chính họ.
+   * Nội dung đề xuất:
+ Bạn có thấy những điều này quen thuộc?
+   * 1.2. Danh sách các "Nỗi đau" (Pain Points):
+   * Trình bày các vấn đề dưới dạng các gạch đầu dòng ngắn gọn, súc tích, tập trung vào kết quả tiêu cực mà doanh nghiệp đang phải đối mặt.
+   * Nội dung đề xuất:
+   * Lãng phí thời gian & nguồn lực:
+Thử nghiệm vô số công cụ AI nhưng không mang lại kết quả rõ ràng, khiến đội ngũ mất phương hướng và tốn kém chi phí.
+   * Kết quả chung chung, thiếu chiều sâu:
+Các chatbot thông thường chỉ cung cấp câu trả lời bề mặt, lặp lại thông tin có sẵn, thiếu hẳn tư duy chiến lược và sự phản biện cần thiết cho các quyết định quan trọng.
+   * Khó ứng dụng vào quy trình:
+ Loay hoay không biết cách tích hợp AI vào công việc cụ thể của đội ngũ marketing, sales, hay vận hành để tạo ra hiệu quả thực sự.
+   * Rủi ro bảo mật & lộ thông tin:
+ Do dự khi đưa các dữ liệu kinh doanh, thông tin khách hàng nhạy cảm vào các nền tảng AI công cộng, không được kiểm chứng.
+________________
+GỢI Ý VỀ THIẾT KẾ & TRẢI NGHIỆM NGƯỜI DÙNG 
+(DESIGN & UX)
+      1. PHIÊN BẢN 1: GIAO DIỆN 9:16 (MOBILE/STORY)
+      * 1.1. Bố cục & Animation (Scrollytelling):
+
+         * Bố cục tuần tự: Tận dụng hành động lướt (scroll) để kể chuyện. Khi người dùng truy cập trang, họ chỉ thấy Tiêu đề chính.
+         * Hiệu ứng xuất hiện khi lướt: Khi người dùng bắt đầu lướt xuống, mỗi "Nỗi đau" (bao gồm icon và đoạn text) sẽ lần lượt xuất hiện một cách mượt mà (ví dụ: hiệu ứng fade in hoặc slide in từ bên trái). Điều này giúp tập trung sự chú ý của người xem vào từng vấn đề một, tránh gây rối mắt và tăng tính tương tác.
+         * 1.2. Hình ảnh (Visuals):
+
+            * Iconography: Mỗi "Nỗi đau" nên đi kèm với một icon đơn giản, hiện đại và dễ hiểu. Ví dụ:
+            * Lãng phí thời gian -> Icon đồng hồ cát hoặc đồng tiền bay đi.
+            * Kết quả chung chung -> Icon một con robot với dấu chấm hỏi.
+            * Khó ứng dụng -> Icon các bánh răng không khớp vào nhau.
+            * Rủi ro bảo mật -> Icon một chiếc khiên bị nứt.
+            * Nền (Background): Giữ nền tối, đồng nhất với Trang 1. Có thể thêm các yếu tố đồ họa rất tinh tế, mờ ảo (ví dụ: các đường kẻ đứt gãy, nhiễu nhẹ) để củng cố cảm giác "rối rắm", "vấn đề".
+            * 1.3. Chữ viết (Typography):
+
+               * Tiêu đề: Nổi bật, kích thước lớn.
+               * Nội dung các "Nỗi đau": Kích thước chữ vừa phải, dễ đọc trên di động. Có thể in đậm (bold) các từ khóa chính như "Lãng phí thời gian", "Kết quả chung chung" để tăng điểm nhấn.
+________________
+
+
+PHIÊN BẢN BỔ SUNG: GỢI Ý THIẾT KẾ CHO GIAO DIỆN 16:9 (DESKTOP/TRÌNH CHIẾU)
+               * 2.1. Bố cục (Layout):
+
+                  * Bố cục dạng lưới (Grid Layout): Tận dụng không gian ngang để trình bày tất cả các vấn đề một cách tổng quan.
+                  * Cách sắp xếp: Chia màn hình thành một lưới 2x2. Mỗi ô trong lưới sẽ chứa một "Nỗi đau" (bao gồm icon và đoạn text). Tiêu đề chính "Bạn có thấy những điều này quen thuộc?" sẽ được đặt ở vị trí trung tâm phía trên lưới. Bố cục này tạo ra sự cân bằng, chuyên nghiệp và cho phép người xem nắm bắt tất cả các vấn đề cùng lúc.
+                  * 2.2. Hình ảnh (Visuals):
+
+                     * Iconography: Các icon vẫn đóng vai trò quan trọng trong từng ô của lưới.
+                     * Hình nền phụ trợ: Với không gian rộng hơn, có thể thêm một hình ảnh lớn, mờ ảo ở lớp nền sau lưới. Hình ảnh này có thể là một mê cung hoặc các sợi chỉ rối vào nhau, mang ý nghĩa biểu tượng cho sự "lạc lối", phức tạp của các vấn đề.
+                     * 2.3. Yếu tố Tương tác (Interactivity):
+
+                        * Hiệu ứng khi di chuột (Hover Effect): Để tăng tính tương tác trên desktop, khi người dùng di chuột qua một ô "Nỗi đau" bất kỳ:
+                        * Ô đó có thể phóng to nhẹ (scale up).
+                        * Icon và chữ bên trong trở nên sáng hơn.
+                        * Một đường viền hoặc một vùng sáng mờ có thể xuất hiện xung quanh ô đó.
+                        * Hiệu ứng này khuyến khích người dùng khám phá từng vấn đề và tạo ra một trải nghiệm sống động hơn là một trang tĩnh.
+                        * 2.4. Chữ viết (Typography):
+
+                           * Tương tự phiên bản 9:16, đảm bảo hệ thống phân cấp rõ ràng giữa tiêu đề và nội dung. Font chữ và màu sắc được giữ đồng nhất để đảm bảo tính thương hiệu.

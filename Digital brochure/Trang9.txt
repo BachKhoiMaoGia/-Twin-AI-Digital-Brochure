@@ -1,0 +1,62 @@
+﻿Trang 10: Kêu gọi Hành động (Call to Action)
+I. NỘI DUNG CHÍNH (COPYWRITING)
+* 1.1. Tiêu đề chính (Headline):
+
+   * Một câu hỏi hoặc một lời khẳng định cuối cùng, mang tính thúc đẩy và tập trung vào tương lai của khách hàng.
+   * Lựa chọn 1 (Câu hỏi):
+ Sẵn sàng nâng tầm hiệu suất của bạn với AI chiến lược?
+   * Lựa chọn 2 (Khẳng định):
+ Bắt đầu hành trình Tối ưu hóa của bạn ngay hôm nay.
+      * 1.2. Các Lựa chọn Hành động (CTA Options):
+      * Cung cấp các lựa chọn rõ ràng cho các mức độ quan tâm khác nhau: từ người muốn trải nghiệm ngay, người muốn tìm hiểu về giá, đến người cần tư vấn sâu.
+      * CTA Chính (Primary CTA - Nút nổi bật nhất):
+ TRẢI NGHIỆM DEMO NGAY
+(Dành cho những người đã bị thuyết phục và muốn xem sản phẩm thực tế)
+      * CTA Phụ (Secondary CTA - Nút ít nổi bật hơn):
+ KHÁM PHÁ CÁC GÓI GIẢI PHÁP
+(Dành cho những người quan tâm đến tính năng chi tiết và chi phí)
+      * CTA Lựa chọn khác (Tertiary CTA - Dạng text link):
+ Hoặc, liên hệ để nhận tư vấn chuyên sâu 1-1 cho doanh nghiệp của bạn.
+(Dành cho các khách hàng lớn, có nhu cầu đặc thù)
+         * 1.3. Thông tin Liên hệ & Thương hiệu:
+
+            * Thông tin:
+ Email: hello@twinai.vn | Hotline: 1900 XXXX
+            * Footer:
+ [Icon LinkedIn] [Icon Facebook] [Icon Website]
+ Logo Twin AI
+ Twin AI - Trợ lý AI chiến lược của bạn.
+
+________________
+GỢI Ý VỀ THIẾT KẾ & TRẢI NGHIỆM NGƯỜI DÙNG (DESIGN & UX)
+               1. GIAO DIỆN 9:16 (MOBILE/STORY)
+               * 1.1. Bố cục (Layout):
+               * Bố cục tập trung vào hành động: Toàn bộ trang được thiết kế để hướng mắt người dùng vào các nút bấm.
+               1. Trên cùng: Đặt Tiêu đề chính.
+               2. Chính giữa: Đặt nút CTA Chính. Nút này phải lớn nhất, có màu nền nổi bật nhất (màu chủ đạo của thương hiệu).
+               3. Ngay dưới CTA Chính: Đặt nút CTA Phụ. Nút này có thể nhỏ hơn một chút, hoặc chỉ có đường viền (outline style) thay vì màu nền đặc để tạo sự phân cấp.
+               4. Dưới CTA Phụ: Đặt dòng chữ CTA Lựa chọn khác dạng text link đơn giản.
+               5. Cuối trang: Khu vực thông tin liên hệ và logo.
+               * 2.2. Hình ảnh & Màu sắc (Visuals & Color):
+               * Không dùng ảnh nền phức tạp: Trang này cần sự tập trung tuyệt đối. Sử dụng nền màu trơn (màu trắng, xám nhạt, hoặc màu tối thương hiệu) để các nút CTA thực sự nổi bật.
+               * Màu sắc nút bấm: Sử dụng màu sắc có độ tương phản cao, thu hút ánh nhìn. Đảm bảo các nút trông "có thể nhấn được".
+               * 2.3. Animation:
+               * Hiệu ứng cho nút chính: Nút CTA Chính có thể có hiệu ứng nhấp nháy nhẹ (subtle pulse) để thu hút sự chú ý một cách vô thức, thôi thúc người dùng hành động.
+               * Hiệu ứng khi nhấn: Các nút cần có trạng thái khi được nhấn (ví dụ: đổi màu, lún xuống nhẹ) để xác nhận người dùng đã tương tác.
+________________
+
+
+II. GỢI Ý THIẾT KẾ CHO GIAO DIỆN 16:9 (DESKTOP/TRÌNH CHIẾU)
+               * 2.1. Bố cục (Layout):
+               * Bố cục tập trung vào trung tâm (Centered Layout):
+               * Sắp xếp:
+               * Tiêu đề chính đặt ở trên cùng, chính giữa.
+               * Khu vực CTA: Ba lựa chọn hành động được đặt ở trung tâm màn hình. Có thể xếp theo chiều dọc (giống bản 9:16 nhưng có nhiều không gian xung quanh hơn) hoặc theo chiều ngang để tận dụng không gian.
+               * Xếp ngang (khuyến khích): Nút CTA Chính và CTA Phụ đặt cạnh nhau, CTA Lựa chọn khác đặt thành một dòng chữ nhỏ bên dưới.
+               * Footer: Toàn bộ thông tin liên hệ, icon mạng xã hội và logo/tagline được đặt ở dải footer phía dưới cùng, kéo dài hết chiều ngang của trang.
+               * 2.2. Hình ảnh (Visuals):
+               * Tương tự bản 9:16, tránh các hình ảnh gây nhiễu. Sự sang trọng của trang này đến từ không gian trắng (hoặc không gian âm) và sự rõ ràng của các yếu tố.
+               * Có thể sử dụng một họa tiết nền rất tinh tế, mờ ảo (subtle pattern) của thương hiệu để trang không bị quá đơn điệu.
+               * 2.3. Yếu tố Tương tác (Interactivity):
+               * Hiệu ứng khi di chuột (Hover Effect): Hiệu ứng này rất quan trọng trên desktop. Khi người dùng di chuột qua một nút CTA, nút đó phải thay đổi rõ rệt (ví dụ: đổi màu nền, chữ bên trong đổi màu, phóng to nhẹ).
+               * Các liên kết có thể nhấp: Đảm bảo tất cả các icon mạng xã hội và địa chỉ email/website đều là các siêu liên kết có thể nhấp được.

@@ -1,0 +1,60 @@
+﻿Trang 6: Lợi ích Chính (Key Benefits)
+I. NỘI DUNG CHÍNH (COPYWRITING)
+* 1.1. Tiêu đề chính (Headline):
+   * Một tiêu đề trực diện, tập trung vào giá trị dành cho khách hàng.
+   * Nội dung đề xuất:
+ Những gì bạn nhận được:
+   * 1.2. Nội dung các Lợi ích (Benefit Blocks):
+   * Mỗi lợi ích được trình bày như một khối giá trị riêng biệt, bao gồm tiêu đề lợi ích và một đoạn mô tả ngắn gọn, súc tích.
+   * Lợi ích #1:
+GIẢI PHÓNG THỜI GIAN
+Tự động hóa các tác vụ phức tạp, từ nghiên cứu chuyên sâu đến xây dựng kế hoạch chi tiết. Giảm đến 80% thời gian, giúp đội ngũ của bạn thoát khỏi công việc sự vụ để tập trung vào các nhiệm vụ chiến lược có giá trị cao hơn.
+   * Lợi ích #2:
+NÂNG TẦM TƯ DUY
+Vượt xa một công cụ chỉ biết trả lời. Twin AI đóng vai trò là một cố vấn, cung cấp những câu hỏi phản biện, những góc nhìn đa chiều và các kịch bản chiến lược mà bạn có thể đã bỏ lỡ, giúp bạn ra quyết định sắc bén hơn.
+   * Lợi ích #3:
+KIẾN TẠO KẾT QUẢ
+Biến ý tưởng thành hành động. Twin AI cung cấp các sản phẩm đầu ra hoàn chỉnh, có tính ứng dụng cao - từ một chiến lược marketing, một bài viết chuyên sâu, đến một báo cáo phân tích - sẵn sàng để bạn triển khai và tạo ra kết quả kinh doanh thực tế.
+
+
+________________
+GỢI Ý VỀ THIẾT KẾ & TRẢI NGHIỆM NGƯỜI DÙNG (DESIGN & UX)
+      1. GIAO DIỆN 9:16 (MOBILE/STORY)
+      * 1.1. Bố cục & Animation:
+
+         * Bố cục thẻ dọc (Vertical Cards): Khi người dùng lướt, mỗi khối lợi ích (bao gồm icon, tiêu đề lợi ích, và mô tả) sẽ xuất hiện như một "thẻ" thông tin riêng biệt, chiếm gần hết màn hình.
+         * Animation tuần tự:
+         * Người dùng lướt đến trang, thấy tiêu đề chính "Những gì bạn nhận được:".
+         * Lướt xuống, khối lợi ích #1 (GIẢI PHÓNG THỜI GIAN) trượt vào vị trí.
+         * Lướt tiếp, khối lợi ích #2 (NÂNG TẦM TƯ DUY) xuất hiện, thay thế hoặc đẩy khối #1 lên trên.
+         * Tương tự với khối lợi ích #3.
+         * Cách trình bày này giúp người dùng tập trung vào từng giá trị một, tránh bị quá tải thông tin.
+         * 1.2. Hình ảnh (Visuals):
+
+            * Icon lớn, biểu cảm: Mỗi lợi ích cần một icon lớn, được thiết kế riêng, độc đáo và thể hiện rõ ý nghĩa.
+            * GIẢI PHÓNG THỜI GIAN: Icon một chiếc đồng hồ biến thành tên lửa hoặc một người đang bay lên.
+            * NÂNG TẦM TƯ DUY: Icon một bộ não phát sáng với các bánh răng chiến lược bên trong.
+            * KIẾN TẠO KẾT QUẢ: Icon một biểu đồ tăng trưởng mạnh mẽ hoặc một mũi tên bắn trúng hồng tâm.
+            * Các icon này có thể có animation nhẹ khi xuất hiện (ví dụ: tên lửa bay lên, não phát sáng).
+________________
+
+
+            2. GỢI Ý THIẾT KẾ CHO GIAO DIỆN 16:9 (DESKTOP/TRÌNH CHIẾU)
+            * 2.1. Bố cục (Layout):
+
+               * Bố cục ba cột (Three-Column Layout): Đây là cách trình bày lý tưởng nhất trên màn hình ngang để thể hiện sự cân bằng và cho phép so sánh.
+               * Sắp xếp:
+               * Tiêu đề chính "Những gì bạn nhận được:" đặt ở trên cùng, kéo dài hết chiều ngang.
+               * Ba cột: Mỗi cột dành riêng cho một lợi ích. Cấu trúc mỗi cột bao gồm: Icon lớn ở trên cùng, ngay dưới là Tiêu đề lợi ích, và cuối cùng là đoạn mô tả chi tiết.
+               * Bố cục này tạo ra một cái nhìn tổng quan, mạnh mẽ và chuyên nghiệp về toàn bộ giá trị mà Twin AI mang lại.
+               * 2.2. Hình ảnh (Visuals):
+
+                  * Các icon trong mỗi cột có thể được thiết kế lớn và chi tiết hơn.
+                  * Nền của cột: Mỗi cột có thể có một màu nền hoặc một dải gradient rất nhẹ, khác biệt tinh tế với các cột khác để tạo sự phân tách trực quan.
+                  * 2.3. Yếu tố Tương tác (Interactivity):
+
+                     * Hiệu ứng khi di chuột (Hover Effect):
+                     * Khi người dùng di chuột qua một cột lợi ích:
+                     * Toàn bộ cột có thể hơi nhô lên (hiệu ứng box-shadow hoặc transform: translateY).
+                     * Icon bên trong có thể thực hiện một animation ngắn (ví dụ: tên lửa bắt đầu rung nhẹ và phụt lửa, các bánh răng trong bộ não bắt đầu quay).
+                     * Tương tác này không chỉ làm cho trang đẹp hơn mà còn khuyến khích người dùng dừng lại và đọc kỹ hơn về từng lợi ích, tăng cường khả năng ghi nhớ thông điệp.

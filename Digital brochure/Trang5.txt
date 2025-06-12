@@ -1,0 +1,60 @@
+﻿Trang 5: Điểm khác biệt #2 - Huấn luyện bởi Chuyên gia
+I. NỘI DUNG CHÍNH (COPYWRITING)
+* 1.1. Tiêu đề chính (Headline):
+   * Một câu nói mang tính đối lập cao, khẳng định giá trị cốt lõi và sự khác biệt của sản phẩm.
+   * Nội dung đề xuất:
+ Không chỉ là thuật toán, đây là kinh nghiệm.
+   * 1.2. Nội dung chính (Body Copy):
+   * Diễn giải cụ thể, lấy ví dụ thực tế về chuyên gia để tạo sự tin cậy tuyệt đối.
+   * Nội dung đề xuất:
+"Linh hồn" của Twin AI đến từ tri thức và tư duy thực chiến của những chuyên gia hàng đầu.
+Các Agent chuyên sâu như HXT Pro và HXT Promax không chỉ được nạp dữ liệu, mà còn được kế thừa gần như toàn bộ tư duy, quy trình và 18 năm kinh nghiệm đúc kết về Marketing của chuyên gia Huỳnh Xuân Tùng.
+
+________________
+
+Điều này có ý nghĩa gì với bạn?
+Bạn không chỉ nhận được một câu trả lời. Bạn đang truy cập vào bản sao kỹ thuật số của một bộ óc chuyên gia, một người cộng sự thấu hiểu ngữ cảnh, thị trường Việt Nam và có khả năng tư duy chiến lược thực thụ.
+      * 1.3. Trích dẫn từ Chuyên gia (Expert Quote):
+      * Một câu trích dẫn ngắn gọn, thể hiện triết lý và cam kết của chuyên gia.
+      * Nội dung đề xuất:
+"Chúng tôi không tạo ra một công cụ thay thế con người. Chúng tôi tạo ra một 'phân thân' để nâng cấp năng lực của chính bạn."
+
+ - Huỳnh Xuân Tùng, Founder Twin AI
+
+________________
+GỢI Ý VỀ THIẾT KẾ & TRẢI NGHIỆM NGƯỜI DÙNG (DESIGN & UX)
+         1. GIAO DIỆN 9:16 (MOBILE/STORY)
+         * 1.1. Bố cục (Layout):
+         * Bố cục tập trung vào con người: Trang này cần tạo cảm giác tin cậy và gần gũi.
+         1. Trên cùng: Đặt Tiêu đề chính.
+         2. Chính giữa: Một hình ảnh chân dung chuyên nghiệp của chuyên gia Huỳnh Xuân Tùng. Bức ảnh nên thể hiện thần thái tự tin, đang làm việc hoặc đang chia sẻ.
+         3. Dưới ảnh: Phần nội dung chính mô tả về việc huấn luyện.
+         4. Cuối cùng: Phần trích dẫn được thiết kế nổi bật, có thể kèm theo chữ ký điện tử của chuyên gia để tăng tính xác thực.
+         * 1.2. Hình ảnh (Visuals):
+         * Ảnh chân dung là tâm điểm: Bức ảnh phải có chất lượng cao, ánh sáng tốt. Đây là yếu tố xây dựng niềm tin quan trọng nhất của trang này.
+         * Nền (Background): Sử dụng một màu nền sáng, sạch sẽ (trắng, xám nhạt) hoặc một texture tinh tế (vân giấy, bề mặt bê tông nhẹ) để tạo cảm giác chuyên nghiệp và làm nổi bật hình ảnh nhân vật.
+         * 1.3. Animation:
+         * Khi người dùng lướt đến, hình ảnh chuyên gia có thể từ từ hiện ra (fade in) hoặc trượt nhẹ vào vị trí.
+         * Các khối văn bản sẽ xuất hiện tuần tự sau khi hình ảnh đã ổn định, giúp người xem tập trung vào nhân vật trước, sau đó mới đến nội dung diễn giải.
+________________
+
+
+II. GỢI Ý THIẾT KẾ CHO GIAO DIỆN 16:9 (DESKTOP/TRÌNH CHIẾU)
+         * 2.1. Bố cục (Layout):
+
+            * Bố cục hai cột, lấy con người làm trọng tâm:
+            * Cột Trái (Khoảng 40-50%): Dành toàn bộ không gian cho một bức ảnh chân dung lớn, ấn tượng theo chiều dọc của chuyên gia Huỳnh Xuân Tùng. Bức ảnh có thể chụp từ ngực trở lên, thể hiện thần thái chuyên nghiệp.
+            * Cột Phải (Khoảng 50-60%): Dành cho toàn bộ nội dung chữ.
+            1. Tiêu đề chính ở trên cùng.
+            2. Phần mô tả chi tiết.
+            3. Phần trích dẫn được đóng khung hoặc trình bày khác biệt ở dưới cùng.
+            * 2.2. Hình ảnh (Visuals):
+
+               * Bức ảnh chân dung ở cột trái là yếu tố "neo" về mặt thị giác cho cả trang. Chất lượng và thần thái của bức ảnh là tối quan trọng.
+               * Ý tưởng nâng cao: Thay vì ảnh tĩnh, cột trái có thể là một video ngắn (cinemagraph) trong đó chuyên gia có những cử động rất nhỏ (gật đầu nhẹ, mỉm cười), tạo cảm giác sống động và chân thực.
+               * 2.3. Yếu tố Tương tác (Interactivity):
+
+                  * Hiệu ứng khi di chuột:
+                  * Khi di chuột qua ảnh chân dung, có thể hiện lên một lớp phủ mờ với tên và chức danh "Huỳnh Xuân Tùng - Founder & CEO Twin AI".
+                  * Khi di chuột qua phần trích dẫn, khung trích dẫn có thể sáng lên hoặc có một đường gạch chân tinh tế chạy bên dưới.
+                  * Tương tác này giúp hướng sự chú ý của người dùng và làm cho trang trở nên sinh động hơn.

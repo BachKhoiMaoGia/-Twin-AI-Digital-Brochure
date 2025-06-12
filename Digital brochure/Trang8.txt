@@ -1,0 +1,54 @@
+﻿Trang 8: Minh họa Sản phẩm - "Xem Twin AI hành động"
+I. NỘI DUNG CHÍNH (COPYWRITING)
+* 1.1. Tiêu đề chính (Headline):
+   * Một tiêu đề tập trung vào tốc độ và kết quả, thể hiện sự đột phá về hiệu suất.
+   * Nội dung đề xuất:
+ Từ Ý tưởng đến Chiến lược chỉ trong Vài phút.
+   * 1.2. Nội dung bối cảnh (Use Case Context):
+   * Thay vì mô tả dài dòng, chúng ta sẽ dựng một kịch bản ngắn gọn, thực tế để làm nền cho phần hình ảnh động.
+   * Nội dung đề xuất:
+ Thách thức:
+Lên một kế hoạch nội dung toàn diện cho sản phẩm mới, từ phân tích đối thủ đến lịch đăng bài chi tiết.
+Hành động:
+Bạn chỉ cần cung cấp một brief (yêu cầu) chuyên sâu...
+Kết quả:
+... và Twin AI sẽ kiến tạo một kế hoạch hoàn chỉnh, sẵn sàng để triển khai.
+________________
+
+
+GỢI Ý VỀ THIẾT KẾ & TRẢI NGHIỆM NGƯỜI DÙNG (DESIGN & UX)
+      1. GIAO DIỆN 9:16 (MOBILE/STORY)
+      * 1.1. Bố cục & Hình ảnh động:
+
+         * Visual là trung tâm: Trang này sẽ tập trung gần như toàn bộ vào một hình ảnh động để thu hút sự chú ý.
+         * Bố cục:
+         * Trên cùng: Đặt Tiêu đề chính.
+         * Chính giữa (chiếm phần lớn không gian): Một video ngắn hoặc ảnh GIF tua nhanh mô tả màn hình sản phẩm đang hoạt động.
+         * Dưới cùng: Phần nội dung "Thách thức / Hành động / Kết quả" có thể xuất hiện dưới dạng các dòng text ngắn gọn bên dưới video.
+         * Nội dung Video/GIF (quan trọng nhất):
+         * Bắt đầu với một màn hình chat trống.
+         * Hiển thị một đoạn prompt (yêu cầu) chi tiết đang được dán vào khung chat.
+         * Ngay lập tức, màn hình hiển thị câu trả lời của Twin AI đang được tạo ra (hiệu ứng typing), lướt nhanh xuống để cho thấy sự đầy đặn và cấu trúc chuyên nghiệp của kết quả (ví dụ: có các mục I, II, III, có bảng, có gạch đầu dòng...).
+         * Video được tua nhanh để tạo cảm giác về tốc độ và hiệu suất ấn tượng.
+         * 1.2. Animation:
+
+            * Video/GIF nên được đặt ở chế độ tự động phát và lặp lại (autoplay, loop).
+            * Các khối text mô tả có thể từ từ hiện ra sau khi video đã chạy được 1-2 giây, để người xem tập trung vào phần hình ảnh động trước.
+________________
+
+
+            2. GỢI Ý THIẾT KẾ CHO GIAO DIỆN 16:9 (DESKTOP/TRÌNH CHIẾU)
+            * 2.1. Bố cục (Layout):
+
+               * Bố cục Cinematic: Sử dụng video/ảnh động làm nền hoặc làm thành phần chính của toàn bộ màn hình để tạo trải nghiệm "đắm chìm".
+               * Cách sắp xếp:
+               * Video/GIF minh họa sản phẩm sẽ chiếm phần lớn không gian bên phải hoặc ở chính giữa.
+               * Phần nội dung chữ (Tiêu đề, Thách thức, Hành động, Kết quả) sẽ được đặt ở cột bên trái, trên một lớp nền mờ (semi-transparent overlay) để đảm bảo dễ đọc mà không che mất phần hình ảnh động quan trọng.
+               * Bố cục này cho phép người xem trên desktop vừa theo dõi được minh họa sản phẩm một cách chi tiết, vừa đọc được bối cảnh một cách rõ ràng.
+               * 2.2. Hình ảnh (Visuals):
+               * Video minh họa trên màn hình rộng có thể hiển thị rõ hơn giao diện của Twin AI, mang lại cảm giác chân thực như người dùng đang xem một buổi demo trực tiếp trên máy tính của họ.
+               * 2.3. Yếu tố Tương tác (Interactivity):
+               * Video tương tác (Interactive Video - ý tưởng nâng cao):
+               * Trên video đang chạy, có thể xuất hiện các "điểm nóng" (hotspots) là các dấu chấm tròn nhấp nháy tại các khu vực quan trọng của kết quả do AI tạo ra (ví dụ: tại mục "Phân tích đối thủ", "Chân dung khách hàng", "Lịch đăng bài").
+               * Khi người dùng di chuột qua các điểm nóng này, một ô thông tin nhỏ (tooltip) sẽ hiện ra với mô tả chi tiết hơn. Ví dụ: "Tự động phân tích điểm mạnh, yếu của 3 đối thủ cạnh tranh chính."
+               * Tương tác này biến một video demo thông thường thành một trải nghiệm khám phá, giúp người dùng hiểu sâu hơn về chất lượng và sự chi tiết trong kết quả của Twin AI.

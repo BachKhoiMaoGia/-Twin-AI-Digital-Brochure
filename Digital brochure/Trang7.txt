@@ -1,0 +1,65 @@
+﻿Trang 7: Twin AI Dành cho Ai? (Who is it for?)
+I. NỘI DUNG CHÍNH (COPYWRITING)
+* 1.1. Tiêu đề chính (Headline):
+   * Nhấn mạnh vào khả năng tùy biến và thích ứng của sản phẩm cho nhiều vai trò khác nhau.
+   * Nội dung đề xuất:
+ Một giải pháp, Tùy biến cho từng vai trò.
+   * 1.2. Nội dung các Nhóm đối tượng (Persona Blocks):
+   * Mỗi nhóm đối tượng được trình bày như một khối thông tin riêng, nêu bật nhu cầu và giải pháp tương ứng.
+   * Nhóm #1:
+Dành cho C-LEVEL & QUẢN LÝ CẤP CAO
+ Khi bạn cần một cố vấn tin cậy để đưa ra những quyết định mang tính chiến lược, Twin AI đóng vai trò là một "phân thân" cấp cao, giúp bạn:
+      * Phản biện & hoạch định chiến lược: Phân tích thị trường, đối thủ và đánh giá các kế hoạch kinh doanh.
+      * Tối ưu hóa vận hành: Đề xuất các giải pháp cải tiến quy trình, nhân sự, và tài chính.
+      * Chuẩn bị cho các cuộc họp quan trọng: Nhanh chóng tổng hợp báo cáo và xây dựng các bài trình bày thuyết phục.
+      * Nhóm #2:
+ Dành cho CHUYÊN VIÊN & ĐỘI NGŨ THỰC THI
+Khi bạn cần nâng cao hiệu suất và chất lượng công việc hàng ngày, Twin AI là một người đồng đội đắc lực, giúp bạn:
+         * Sáng tạo nội dung vượt trội: Lên ý tưởng, viết bài blog, kịch bản video, email marketing... với chất lượng chuyên gia.
+         * Lập kế hoạch thông minh: Xây dựng các kế hoạch marketing, kế hoạch truyền thông chi tiết chỉ trong vài phút.
+         * Phân tích báo cáo hiệu quả: Tự động hóa việc phân tích số liệu và đưa ra các đề xuất tối ưu.
+         * Nhóm #3:
+ Dành cho CHUYÊN GIA & NHÀ TƯ VẤN
+ Khi bạn cần hệ thống hóa tri thức và nhân bản chuyên môn của mình, Twin AI là công cụ khuếch đại năng lực, giúp bạn:
+            * Xây dựng giáo trình & khóa học: Hệ thống hóa kiến thức chuyên môn thành các chương trình đào tạo bài bản.
+            * Soạn thảo tài liệu tư vấn: Nhanh chóng tạo ra các bộ tài liệu, báo cáo chuyên sâu cho khách hàng.
+            * Phát triển sản phẩm số: Biến tri thức của bạn thành các sản phẩm như ebook, workbook một cách hiệu quả.
+________________
+GỢI Ý VỀ THIẾT KẾ & TRẢI NGHIỆM NGƯỜI DÙNG (DESIGN & UX)
+               1. GIAO DIỆN 9:16 (MOBILE/STORY)
+               * 1.1. Bố cục & Tương tác (Interactive Tabs/Accordion):
+               * Bố cục tương tác: Để tránh một trang quá dài, hãy sử dụng cơ chế "tab" hoặc "accordion".
+               * Phía trên là Tiêu đề chính.
+               * Ngay dưới là 3 "nút" hoặc "tab" với tiêu đề của từng nhóm: "C-Level", "Chuyên viên", "Chuyên gia".
+               * Mặc định, tab "C-Level" sẽ được chọn và nội dung chi tiết của nó sẽ được hiển thị.
+               * Khi người dùng nhấn vào tab "Chuyên viên", nội dung của "C-Level" sẽ thu lại và nội dung của "Chuyên viên" sẽ mở ra một cách mượt mà.
+               * Bố cục này cho phép người dùng chủ động chọn xem thông tin phù hợp nhất với họ, tạo ra một trải nghiệm cá nhân hóa cao.
+               * 1.2. Hình ảnh (Visuals):
+               * Icon riêng biệt: Mỗi nhóm đối tượng cần có một icon đặc trưng, chuyên nghiệp.
+               * C-Level: Icon một quân Vua trong cờ vua, hoặc một chiếc kính viễn vọng.
+               * Chuyên viên: Icon các bánh răng đang hoạt động, hoặc một biểu đồ tăng trưởng.
+               * Chuyên gia: Icon một cuốn sách đang mở ra, hoặc một ngọn hải đăng.
+               * Icon này sẽ hiển thị trên nút/tab và cả trong phần nội dung chi tiết khi được mở ra.
+________________
+
+
+               2. GỢI Ý THIẾT KẾ CHO GIAO DIỆN 16:9 (DESKTOP/TRÌNH CHIẾU)
+               * 2.1. Bố cục (Layout):
+               * Bố cục ba cột (Three-Column Layout): Tương tự trang Lợi ích, bố cục này rất hiệu quả để trình bày song song và tổng quan.
+               * Sắp xếp:
+               * Tiêu đề chính đặt ở trên cùng.
+               * Ba cột: Mỗi cột dành riêng cho một nhóm đối tượng. Cấu trúc mỗi cột bao gồm:
+               1. Icon đặc trưng của nhóm.
+               2. Tiêu đề của nhóm (ví dụ: "Dành cho C-LEVEL").
+               3. Đoạn mô tả và danh sách các lợi ích/ứng dụng.
+               * Bố cục này cho phép người xem, đặc biệt là các nhà quản lý, dễ dàng thấy được sự đa dạng và khả năng đáp ứng toàn diện của Twin AI cho cả tổ chức.
+               * 2.2. Hình ảnh (Visuals):
+               * Hình nền cho cột: Để tăng thêm tính trực quan, mỗi cột có thể có một hình nền mờ (subtle background image) liên quan đến vai trò đó.
+               * C-Level: Hình ảnh một phòng họp sang trọng hoặc một biểu đồ chiến lược.
+               * Chuyên viên: Hình ảnh một không gian làm việc sáng tạo, hiện đại.
+               * Chuyên gia: Hình ảnh một thư viện hoặc một buổi thuyết trình.
+               * 2.3. Yếu tố Tương tác (Interactivity):
+               * Hiệu ứng khi di chuột (Hover Effect):
+               * Khi người dùng di chuột qua một cột, toàn bộ cột đó có thể được làm nổi bật (sáng hơn, có viền màu hoặc đổ bóng).
+               * Các gạch đầu dòng (bullet points) bên trong cột có thể có hiệu ứng xuất hiện tuần tự khi người dùng di chuột vào, tạo cảm giác khám phá chi tiết.
+               * Tương tác này giúp giữ chân người xem và khuyến khích họ đọc kỹ hơn về vai trò mà họ quan tâm nhất.

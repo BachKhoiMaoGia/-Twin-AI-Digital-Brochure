@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twin AI - Digital Brochure</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="brochure-container">
+        <!-- Trang 1: Màn hình Mở đầu -->
+        <section class="page page-1" id="page-1">
+            <div class="background-video">
+                <div class="neural-network"></div>
+            </div>
+            <div class="content">
+                <div class="logo">
+                    <img src="logo twin.jpg" alt="Twin AI Logo">
+                </div>
+                <h1 class="headline">Đội ngũ của bạn<br>đang "lạc lối" trong kỷ nguyên AI?</h1>
+                <h2 class="subheadline">Twin AI: Trợ lý AI Chiến lược, không chỉ là Chatbot.</h2>
+                <div class="scroll-indicator">
+                    <i class="fas fa-chevron-down"></i>
+                    <span>Lướt xuống để khám phá</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 2: Đặt Vấn Đề -->
+        <section class="page page-2" id="page-2">
+            <div class="content">
+                <h1 class="headline">Bạn có thấy những điều này quen thuộc?</h1>
+                <div class="pain-points">
+                    <div class="pain-point" data-scroll>
+                        <div class="icon">
+                            <i class="fas fa-hourglass-end"></i>
+                        </div>
+                        <div class="text">
+                            <h3>Lãng phí thời gian & nguồn lực</h3>
+                            <p>Thử nghiệm vô số công cụ AI nhưng không mang lại kết quả rõ ràng, khiến đội ngũ mất phương hướng và tốn kém chi phí.</p>
+                        </div>
+                    </div>
+                    <div class="pain-point" data-scroll>
+                        <div class="icon">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <div class="text">
+                            <h3>Kết quả chung chung, thiếu chiều sâu</h3>
+                            <p>Các chatbot thông thường chỉ cung cấp câu trả lời bề mặt, lặp lại thông tin có sẵn, thiếu hẳn tư duy chiến lược.</p>
+                        </div>
+                    </div>
+                    <div class="pain-point" data-scroll>
+                        <div class="icon">
+                            <i class="fas fa-cogs"></i>
+                        </div>
+                        <div class="text">
+                            <h3>Khó ứng dụng vào quy trình</h3>
+                            <p>Loay hoay không biết cách tích hợp AI vào công việc cụ thể để tạo ra hiệu quả thực sự.</p>
+                        </div>
+                    </div>
+                    <div class="pain-point" data-scroll>
+                        <div class="icon">
+                            <i class="fas fa-shield-alt"></i>
+                        </div>
+                        <div class="text">
+                            <h3>Rủi ro bảo mật & lộ thông tin</h3>
+                            <p>Do dự khi đưa dữ liệu kinh doanh nhạy cảm vào các nền tảng AI công cộng không được kiểm chứng.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 3: Giới thiệu Giải pháp -->
+        <section class="page page-3" id="page-3">
+            <div class="content">
+                <h1 class="headline reveal-text">Đã đến lúc thay đổi cuộc chơi.</h1>
+                <div class="logo-reveal">
+                    <div class="logo-animation">
+                        <img src="logo twin.jpg" alt="Twin AI Logo" class="main-logo">
+                    </div>
+                </div>
+                <div class="brand-intro reveal-text">
+                    <p class="intro-line">Giới thiệu <strong>Twin AI</strong></p>
+                    <p class="intro-line">Nền tảng Trí tuệ nhân tạo thế hệ mới,</p>
+                    <p class="intro-line">được thiết kế để trở thành <span class="highlight">"phân thân" AI chiến lược</span></p>
+                    <p class="intro-line">cho doanh nghiệp của bạn.</p>
+                </div>
+                <div class="separator"></div>
+                <div class="tagline reveal-text">
+                    <p><em>Bạn không chỉ đang sử dụng một công cụ. Bạn đang hợp tác với một bộ óc chiến lược.</em></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 4: Cơ chế Agent Đa tầng -->
+        <section class="page page-4" id="page-4">
+            <div class="content">
+                <h1 class="headline">Tư duy như một Bộ não, Hoạt động như một Đội quân.</h1>
+                <div class="agent-system">
+                    <div class="flow-diagram">
+                        <div class="flow-step" data-scroll>
+                            <div class="step-icon">
+                                <i class="fas fa-comment"></i>
+                            </div>
+                            <h3>Yêu cầu của bạn</h3>
+                            <p>Đầu vào từ người dùng</p>
+                        </div>
+                        <div class="flow-arrow">→</div>
+                        <div class="flow-step central-agent" data-scroll>
+                            <div class="step-icon">
+                                <i class="fas fa-brain"></i>
+                            </div>
+                            <h3>Agent Chính</h3>
+                            <p>Phân tích và điều phối</p>
+                            <div class="sub-agents">
+                                <div class="sub-agent">Nghiên cứu</div>
+                                <div class="sub-agent">Phân tích</div>
+                                <div class="sub-agent">Chiến lược</div>
+                                <div class="sub-agent">Thực thi</div>
+                            </div>
+                        </div>
+                        <div class="flow-arrow">→</div>
+                        <div class="flow-step" data-scroll>
+                            <div class="step-icon">
+                                <i class="fas fa-trophy"></i>
+                            </div>
+                            <h3>Kết quả Tối ưu</h3>
+                            <p>Giải pháp toàn diện</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 5: Huấn luyện bởi Chuyên gia -->
+        <section class="page page-5" id="page-5">
+            <div class="content">
+                <h1 class="headline">Không chỉ là thuật toán, đây là kinh nghiệm.</h1>
+                <div class="expert-section">
+                    <div class="expert-image">
+                        <img src="hxt.png" alt="Huỳnh Xuân Tùng - AI Expert" class="expert-photo">
+                    </div>
+                    <div class="expert-content">
+                        <h2>Được huấn luyện bởi chuyên gia Huỳnh Xuân Tùng</h2>
+                        <p>Twin AI được phát triển dựa trên kinh nghiệm thực tế của các chuyên gia hàng đầu trong lĩnh vực AI và Marketing.</p>
+                        <blockquote class="expert-quote">
+                            "Chúng tôi không tạo ra một công cụ thay thế con người. Chúng tôi tạo ra một 'phân thân' để nâng cấp năng lực của chính bạn."
+                        </blockquote>
+                        <cite>— Huỳnh Xuân Tùng, Founder Twin AI</cite>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 6: Lợi ích Chính -->
+        <section class="page page-6" id="page-6">
+            <div class="content">
+                <h1 class="headline">Những gì bạn nhận được:</h1>
+                <div class="benefits">
+                    <div class="benefit" data-scroll>
+                        <div class="benefit-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <h3>GIẢI PHÓNG THỜI GIAN</h3>
+                        <p>Tự động hóa các tác vụ lặp đi lặp lại, giúp bạn tập trung vào những quyết định chiến lược quan trọng.</p>
+                    </div>
+                    <div class="benefit" data-scroll>
+                        <div class="benefit-icon">
+                            <i class="fas fa-lightbulb"></i>
+                        </div>
+                        <h3>NÂNG TẦM TƯ DUY</h3>
+                        <p>Cung cấp góc nhìn đa chiều và phân tích sâu sắc để nâng cao khả năng ra quyết định của bạn.</p>
+                    </div>
+                    <div class="benefit" data-scroll>
+                        <div class="benefit-icon">
+                            <i class="fas fa-target"></i>
+                        </div>
+                        <h3>KIẾN TẠO KẾT QUẢ</h3>
+                        <p>Chuyển ý tưởng thành hành động cụ thể với các chiến lược đã được tối ưu hóa và kiểm chứng.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 7: Twin AI Dành cho Ai? -->
+        <section class="page page-7" id="page-7">
+            <div class="content">
+                <h1 class="headline">Một giải pháp, Tùy biến cho từng vai trò.</h1>
+                <div class="target-groups">
+                    <div class="group" data-scroll>
+                        <div class="group-icon">
+                            <i class="fas fa-chess-king"></i>
+                        </div>
+                        <h3>C-LEVEL</h3>
+                        <ul>
+                            <li>Phân tích thị trường và đối thủ cạnh tranh</li>
+                            <li>Lập kế hoạch chiến lược dài hạn</li>
+                            <li>Đánh giá rủi ro và cơ hội</li>
+                            <li>Tối ưu hóa quyết định đầu tư</li>
+                        </ul>
+                    </div>
+                    <div class="group" data-scroll>
+                        <div class="group-icon">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <h3>CHUYÊN VIÊN</h3>
+                        <ul>
+                            <li>Tạo nội dung marketing hiệu quả</li>
+                            <li>Phân tích dữ liệu khách hàng</li>
+                            <li>Tối ưu hóa quy trình làm việc</li>
+                            <li>Nghiên cứu xu hướng ngành</li>
+                        </ul>
+                    </div>
+                    <div class="group" data-scroll>
+                        <div class="group-icon">
+                            <i class="fas fa-graduation-cap"></i>
+                        </div>
+                        <h3>CHUYÊN GIA</h3>
+                        <ul>
+                            <li>Phát triển giải pháp kỹ thuật</li>
+                            <li>Tư vấn chiến lược chuyên sâu</li>
+                            <li>Nghiên cứu và phát triển</li>
+                            <li>Đào tạo và mentoring</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 8: Minh họa Sản phẩm -->
+        <section class="page page-8" id="page-8">
+            <div class="content">
+                <h1 class="headline">Từ Ý tưởng đến Chiến lược chỉ trong Vài phút.</h1>
+                <div class="product-demo">
+                    <div class="demo-before">
+                        <h3>TRƯỚC</h3>
+                        <div class="demo-screen">
+                            <div class="chat-input">
+                                <p><strong>Bạn:</strong> "Tôi cần một chiến lược marketing cho sản phẩm mới"</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="demo-arrow">
+                        <i class="fas fa-arrow-right"></i>
+                    </div>
+                    <div class="demo-after">
+                        <h3>SAU</h3>
+                        <div class="demo-screen">
+                            <div class="chat-output">
+                                <h4>📋 Chiến lược Marketing Tổng thể</h4>
+                                <div class="output-section">
+                                    <h5>🎯 Phân tích thị trường:</h5>
+                                    <ul>
+                                        <li>Nghiên cứu đối thủ cạnh tranh</li>
+                                        <li>Xác định target audience</li>
+                                        <li>Phân tích SWOT chi tiết</li>
+                                    </ul>
+                                </div>
+                                <div class="output-section">
+                                    <h5>📈 Kế hoạch triển khai:</h5>
+                                    <ul>
+                                        <li>Timeline 12 tuần</li>
+                                        <li>Budget allocation</li>
+                                        <li>KPI measurement</li>
+                                    </ul>
+                                </div>
+                                <div class="output-section">
+                                    <h5>💡 Sáng tạo nội dung:</h5>
+                                    <ul>
+                                        <li>Message framework</li>
+                                        <li>Content calendar</li>
+                                        <li>Creative concepts</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 9: Bằng chứng Xã hội -->
+        <section class="page page-9" id="page-9">
+            <div class="content">
+                <h1 class="headline">Được tin dùng bởi các Doanh nghiệp và Chuyên gia Tiên phong.</h1>
+                <div class="social-proof">
+                    <div class="business-showcases">
+                        <h2>Khám phá thành công thực tế của Twin AI</h2>
+                        <p>Quét mã QR để xem chi tiết cách Twin AI đã giúp các doanh nghiệp đạt được kết quả đột phá:</p>
+                        
+                        <div class="showcase-grid">
+                            <div class="showcase-item" data-scroll>
+                                <div class="showcase-qr">
+                                    <img src="showcase-behome-mall.png" alt="Behome Mall Showcase QR">
+                                </div>
+                                <div class="showcase-info">
+                                    <h3>Behome Mall</h3>
+                                    <p>Tối ưu hóa chiến lược Marketing & Bán hàng</p>
+                                    <span class="showcase-tag">Retail & E-commerce</span>
+                                </div>
+                            </div>
+                            
+                            <div class="showcase-item" data-scroll>
+                                <div class="showcase-qr">
+                                    <img src="showcase-báo-kinh-tế-đô-thị.png" alt="Báo Kinh Tế Đô Thị Showcase QR">
+                                </div>
+                                <div class="showcase-info">
+                                    <h3>Báo Kinh Tế Đô Thị</h3>
+                                    <p>Nâng cao chất lượng nội dung & Tương tác độc giả</p>
+                                    <span class="showcase-tag">Media & Publishing</span>
+                                </div>
+                            </div>
+                            
+                            <div class="showcase-item" data-scroll>
+                                <div class="showcase-qr">
+                                    <img src="showcase-hương-việt-group.png" alt="Hương Việt Group Showcase QR">
+                                </div>
+                                <div class="showcase-info">
+                                    <h3>Hương Việt Group</h3>
+                                    <p>Tự động hóa quy trình & Tăng hiệu quả vận hành</p>
+                                    <span class="showcase-tag">E-Learning</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="showcase-stats" data-scroll>
+                            <div class="stat-item">
+                                <div class="stat-number">95%</div>
+                                <div class="stat-label">Khách hàng hài lòng</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-number">3x</div>
+                                <div class="stat-label">Tăng hiệu quả làm việc</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-number">24/7</div>
+                                <div class="stat-label">Hỗ trợ không giới hạn</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trang 10: Kêu gọi Hành động -->
+        <section class="page page-10" id="page-10">
+            <div class="content">
+                <h1 class="headline">Bắt đầu hành trình Tối ưu hóa của bạn ngay hôm nay.</h1>
+                <div class="cta-section">
+                    <div class="cta-buttons">
+                        <a href="#" class="cta-button primary">
+                            <i class="fas fa-play"></i>
+                            TRẢI NGHIỆM DEMO
+                        </a>
+                        <a href="#" class="cta-button secondary">
+                            <i class="fas fa-search"></i>
+                            KHÁM PHÁ GÓI GIẢI PHÁP
+                        </a>
+                    </div>
+                    <div class="qr-section">
+                        <div class="qr-code">
+                            <img src="TwinAI QR Website.png" alt="QR Code Twin AI Demo">
+                        </div>
+                        <p>Quét mã QR để trải nghiệm ngay</p>
+                    </div>
+                    <div class="contact-info">
+                        <p>Hoặc, liên hệ trực tiếp với chúng tôi:</p>
+                        <div class="contact-details">
+                            <div class="contact-item">
+                                <i class="fas fa-envelope"></i>
+                                <a href="mailto:contact@twinai.com">hi@twinexpert.com</a>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-phone"></i>
+                                <a href="tel:+84123456789">+84 901 404 590</a>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-globe"></i>
+                                <a href="#">www.twinexpert.com</a>
+                            </div>
+                        </div>
+                        <div class="social-links">
+                            <a href="#"><i class="fab fa-facebook"></i></a>
+                            <a href="#"><i class="fab fa-linkedin"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="page-navigation">
+        <div class="nav-dots">
+            <span class="nav-dot active" data-page="1"></span>
+            <span class="nav-dot" data-page="2"></span>
+            <span class="nav-dot" data-page="3"></span>
+            <span class="nav-dot" data-page="4"></span>
+            <span class="nav-dot" data-page="5"></span>
+            <span class="nav-dot" data-page="6"></span>
+            <span class="nav-dot" data-page="7"></span>
+            <span class="nav-dot" data-page="8"></span>
+            <span class="nav-dot" data-page="9"></span>
+            <span class="nav-dot" data-page="10"></span>
+        </div>
+    </nav>
+
+    <script src="script.js"></script>
+</body>
+</html>

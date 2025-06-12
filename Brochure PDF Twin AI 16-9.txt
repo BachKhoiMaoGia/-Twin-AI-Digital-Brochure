@@ -1,0 +1,95 @@
+﻿Chi tiết Brochure PDF Twin AI (Định dạng 16:9)
+________________
+Trang 1: Màn hình Mở đầu
+* Nội dung:
+   * Headline: Đội ngũ của bạn đang "lạc lối" trong kỷ nguyên AI?
+   * Sub-headline: Twin AI: Trợ lý AI Chiến lược, không chỉ là Chatbot.
+* Thiết kế (Bố cục 2 cột):
+   * Cột Trái (40%): Dành cho nội dung chữ. Đặt Headline và Sub-headline tại đây. Phía dưới có thể đặt một nút CTA chính (ví dụ: "KHÁM PHÁ GIẢI PHÁP") để dẫn dắt hành động.
+   * Cột Phải (60%): Dành cho hình ảnh chủ đạo. Sử dụng một ảnh tĩnh chất lượng điện ảnh (cinematic photo) hoặc một ảnh mockup giao diện sản phẩm được thiết kế đẹp mắt.
+   * Tổng thể: Tạo cảm giác chuyên nghiệp, cân đối và có định hướng hành động rõ ràng.
+________________
+Trang 2: Đặt Vấn Đề
+* Nội dung:
+   * Headline: Bạn có thấy những điều này quen thuộc?
+   * 4 "Nỗi đau": Lãng phí thời gian, Kết quả chung chung, Khó ứng dụng, Rủi ro bảo mật.
+* Thiết kế (Bố cục Lưới 2x2):
+   * Đặt Headline ở trên cùng.
+   * Bên dưới là một lưới 2x2. Mỗi ô trong lưới chứa một "nỗi đau" (bao gồm icon và đoạn text).
+   * Bố cục này cho phép người xem nắm bắt tất cả các vấn đề một cách tổng quan trên cùng một màn hình, rất phù hợp với không gian ngang.
+________________
+Trang 3: Giới thiệu Giải pháp
+* Nội dung:
+   * Headline: Đã đến lúc thay đổi cuộc chơi.
+   * Nội dung chính: Giới thiệu Twin AI và khái niệm "phân thân" AI chiến lược.
+* Thiết kế (Bố cục Toàn màn hình, Tập trung vào Trung tâm):
+   * Sử dụng một layout mang tính tuyên bố, không chia cột.
+   * Headline ở trên cùng.
+   * Logo Twin AI tĩnh, chất lượng cao được đặt ở chính giữa, kích thước lớn.
+   * Nội dung chính được đặt bên dưới logo.
+   * Toàn bộ trang sạch sẽ, sang trọng, tập trung tuyệt đối vào việc ra mắt thương hiệu.
+________________
+Trang 4: Cơ chế Agent Đa tầng
+* Nội dung:
+   * Headline: Tư duy như một Bộ não, Hoạt động như một Đội quân.
+   * Nội dung giải thích quy trình 3 bước: Agent Chính -> Các Agent Con -> Kết quả Tổng hợp.
+* Thiết kế (Infographic Dạng Flowchart):
+   * Trình bày toàn bộ quy trình dưới dạng một sơ đồ dòng chảy từ trái sang phải.
+   * Bên trái: "Yêu cầu của bạn".
+   * Trung tâm: "Agent Chính" là hub trung tâm, tỏa nhánh ra các "Agent Con".
+   * Bên phải: "Sản phẩm Tối ưu".
+   * Sử dụng icon và các đoạn text mô tả ngắn gọn cho từng bước. Đây là trang thể hiện sự thông minh của sản phẩm một cách trực quan.
+________________
+Trang 5: Huấn luyện bởi Chuyên gia
+* Nội dung:
+   * Headline: Không chỉ là thuật toán, đây là kinh nghiệm.
+   * Nội dung về chuyên gia Huỳnh Xuân Tùng và trích dẫn.
+* Thiết kế (Bố cục 2 cột):
+   * Cột Trái: Một bức ảnh chân dung lớn, ấn tượng theo chiều dọc của chuyên gia Huỳnh Xuân Tùng.
+   * Cột Phải: Toàn bộ nội dung chữ (Headline, mô tả, trích dẫn). Phần trích dẫn được đóng khung hoặc dùng font chữ cách điệu để nổi bật.
+________________
+Trang 6: Lợi ích Chính
+* Nội dung:
+   * Headline: Những gì bạn nhận được:
+   * 3 khối lợi ích: Giải phóng Thời gian, Nâng tầm Tư duy, Kiến tạo Kết quả.
+* Thiết kế (Bố cục 3 cột):
+   * Đặt Headline ở trên cùng.
+   * Bên dưới là 3 cột, mỗi cột dành cho một lợi ích. Cấu trúc mỗi cột gồm: Icon lớn -> Tiêu đề lợi ích -> Đoạn mô tả.
+   * Bố cục này cho phép so sánh và làm nổi bật 3 giá trị cốt lõi một cách cân bằng.
+________________
+Trang 7: Twin AI Dành cho Ai?
+* Nội dung:
+   * Headline: Một giải pháp, Tùy biến cho từng vai trò.
+   * Nội dung chi tiết cho 3 nhóm: C-Level, Chuyên viên, Chuyên gia.
+* Thiết kế (Bố cục 3 cột):
+   * Tương tự Trang 6, mỗi cột dành riêng cho một nhóm đối tượng.
+   * Cấu trúc mỗi cột: Icon đặc trưng -> Tiêu đề nhóm -> Đoạn mô tả và bullet points các ứng dụng.
+   * Có thể sử dụng một ảnh nền mờ tinh tế liên quan đến từng vai trò cho mỗi cột.
+________________
+Trang 8: Minh họa Sản phẩm
+* Nội dung:
+   * Headline: Từ Ý tưởng đến Chiến lược chỉ trong Vài phút.
+   * Bối cảnh Thách thức / Hành động / Kết quả.
+* Thiết kế (Bố cục "Trước - Sau"):
+   * Sử dụng bố cục 2 cột để so sánh.
+   * Cột Trái: Ghi tiêu đề "TRƯỚC". Bên dưới là một ảnh chụp màn hình stylized, chỉ hiển thị một khung chat với một đoạn prompt (yêu cầu) ngắn gọn.
+   * Cột Phải: Ghi tiêu đề "SAU". Bên dưới là một ảnh chụp màn hình stylized, hiển thị một phần kết quả đầu ra dài, chuyên nghiệp và có cấu trúc tốt từ Twin AI.
+________________
+Trang 9: Bằng chứng Xã hội
+* Nội dung:
+   * Headline: Được tin dùng bởi các Doanh nghiệp và Chuyên gia Tiên phong.
+   * Testimonials và Logo khách hàng.
+* Thiết kế (Bố cục phân cấp):
+   * Nửa Trái: Dành cho một testimonial nổi bật nhất. Bao gồm ảnh chân dung lớn, trích dẫn và thông tin người nói.
+   * Nửa Phải: Dành cho testimonial thứ hai (có thể thiết kế nhỏ hơn một chút) và bên dưới là khu vực hiển thị lưới logo của các khách hàng/đối tác.
+________________
+Trang 10: Kêu gọi Hành động
+* Nội dung:
+   * Headline: Bắt đầu hành trình Tối ưu hóa của bạn ngay hôm nay.
+   * Các nút CTA và thông tin liên hệ.
+* Thiết kế (Bố cục Tập trung vào Trung tâm):
+   * Đặt Headline ở trên cùng.
+   * Các nút CTA chính (TRẢI NGHIỆM DEMO, KHÁM PHÁ GÓI GIẢI PHÁP) được đặt cạnh nhau ở giữa trang.
+   * Dòng text CTA thứ ba (Hoặc, liên hệ...) đặt bên dưới.
+   * Toàn bộ thông tin liên hệ (Email, Hotline, Icons MXH) và logo được đặt ở dải footer phía dưới cùng.
+   * Lưu ý quan trọng: Trong file PDF, hãy đảm bảo nhúng siêu liên kết (hyperlink) vào các nút, icon và địa chỉ email/website để người xem có thể tương tác trực tiếp.

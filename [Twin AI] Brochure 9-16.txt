@@ -1,0 +1,94 @@
+﻿[Twin AI] Digital Brochure
+Guideline color  màu chủ đạo được trích xuất từ logo:
+1. Màu 1 (Xanh sáng): RGB(36, 166, 255)
+
+2. Màu 2 (Xanh dương trung tính): RGB(28, 125, 222)
+
+3. Màu 3 (Xanh đậm chuyển tím): RGB(53, 76, 215)
+
+4. Màu 4 (Tím xanh đậm): RGB(58, 64, 163)
+
+Gợi ý sử dụng làm guideline thiết kế:
+Màu
+	Vai trò đề xuất trong thiết kế
+	RGB(36, 166, 255)
+	Màu chính (Primary) – dùng cho nút, tiêu đề nổi bật, điểm nhấn lớn
+	RGB(28, 125, 222)
+	Màu phụ (Secondary) – dùng cho biểu tượng nhỏ, background hover, border
+	RGB(53, 76, 215)
+	Màu nền sâu (Accent dark) – dùng làm màu nền gradient hoặc background sections
+	RGB(58, 64, 163)
+	Màu hỗ trợ (Support) – dùng trong typography, icon đổ bóng hoặc viền
+	Nếu cần, tôi có thể giúp bạn tạo luôn bảng màu .ASE cho Adobe hoặc CSS variables dùng trong hệ thống thiết kế frontend. Bạn muốn dùng định dạng nào?
+
+
+Trang 1: Màn hình Mở đầu
+   * Nội dung: Giữ nguyên
+   * Headline: Đội ngũ của bạn đang "lạc lối" trong kỷ nguyên AI?
+   * Sub-headline: Twin AI: Trợ lý AI Chiến lược, không chỉ là Chatbot.
+   * Thiết kế (thay cho animation):
+   * Sử dụng một ảnh tĩnh chất lượng điện ảnh (cinematic photo) làm nền. Ảnh có thể là một chuyên gia đang tư duy trước một màn hình lớn hiển thị dữ liệu phức tạp.
+   * Ở cuối trang, đặt một icon mũi tên chỉ xuống đơn giản, thanh lịch để khuyến khích người xem lướt tiếp.
+Trang 2: Đặt Vấn Đề
+   * Nội dung: Giữ nguyên
+   * Headline: Bạn có thấy những điều này quen thuộc?
+   * 4 "Nỗi đau" kèm mô tả.
+   * Thiết kế (thay cho animation):
+   * Trình bày 4 "nỗi đau" theo chiều dọc. Mỗi "nỗi đau" là một khối thông tin riêng biệt, bao gồm icon + tiêu đề in đậm + đoạn mô tả.
+   * Sử dụng khoảng trắng hợp lý giữa các khối để trang không bị rối và dễ đọc.
+Trang 3: Giới thiệu Giải pháp
+   * Nội dung: Giữ nguyên
+   * Headline: Đã đến lúc thay đổi cuộc chơi.
+   * Nội dung chính: Giới thiệu Twin AI và khái niệm "phân thân" AI chiến lược.
+   * Thiết kế (thay cho animation):
+   * Sử dụng một logo Twin AI tĩnh, được thiết kế đẹp mắt làm trung tâm. Logo có thể được đặt trên một nền có hiệu ứng gradient nhẹ hoặc có một lớp đổ bóng tinh tế để tạo chiều sâu.
+   * Bố cục tổng thể cần sạch sẽ, sang trọng để khẳng định sự ra mắt của một giải pháp cao cấp.
+Trang 4: Cơ chế Agent Đa tầng
+   * Nội dung: Giữ nguyên
+   * Headline: Tư duy như một Bộ não, Hoạt động như một Đội quân.
+   * Nội dung giải thích quy trình 3 bước.
+   * Thiết kế (thay cho animation):
+   * Trình bày toàn bộ quy trình dưới dạng một infographic tĩnh, chất lượng cao.
+   * Sơ đồ dòng chảy (flowchart) từ trên xuống: Yêu cầu -> Agent Chính -> Các Agent Con (liệt kê) -> Kết quả Tối ưu. Sử dụng đường nối, icon và các khối text rõ ràng để minh họa. Đây là một trang cần sự đầu tư về thiết kế đồ họa.
+Trang 5: Huấn luyện bởi Chuyên gia
+   * Nội dung: Giữ nguyên
+   * Headline: Không chỉ là thuật toán, đây là kinh nghiệm.
+   * Nội dung về chuyên gia Huỳnh Xuân Tùng và trích dẫn.
+   * Thiết kế (thay cho animation):
+   * Trang này vốn đã phù hợp với định dạng tĩnh. Sử dụng ảnh chân dung chuyên nghiệp, chất lượng cao của chuyên gia.
+   * Phần trích dẫn được đóng khung hoặc sử dụng font chữ viết tay cách điệu để tạo điểm nhấn.
+Trang 6: Lợi ích Chính
+   * Nội dung: Giữ nguyên
+   * Headline: Những gì bạn nhận được:
+   * 3 khối lợi ích: Giải phóng Thời gian, Nâng tầm Tư duy, Kiến tạo Kết quả.
+   * Thiết kế (thay cho animation):
+   * Trình bày mỗi lợi ích như một khối thông tin riêng biệt theo chiều dọc.
+   * Mỗi khối gồm icon lớn, biểu cảm + tiêu đề lợi ích in hoa, in đậm + đoạn mô tả. Dùng đường kẻ ngang hoặc khoảng trắng để phân tách rõ ràng 3 khối.
+Trang 7: Twin AI Dành cho Ai?
+   * Nội dung: Giữ nguyên
+   * Headline: Một giải pháp, Tùy biến cho từng vai trò.
+   * Nội dung chi tiết cho 3 nhóm: C-Level, Chuyên viên, Chuyên gia.
+   * Thiết kế (thay cho interactive tabs):
+   * Vì PDF không hỗ trợ tab tương tác, chúng ta sẽ trình bày tuần tự. Mỗi nhóm đối tượng là một phần riêng, có tiêu đề và icon rõ ràng.
+   * Sử dụng các đường kẻ ngang hoặc một màu nền nhạt khác nhau cho mỗi phần để tạo sự phân tách trực quan, giúp người đọc dễ dàng lướt đến phần phù hợp với mình.
+Trang 8: Minh họa Sản phẩm
+   * Nội dung: Giữ nguyên
+   * Headline: Từ Ý tưởng đến Chiến lược chỉ trong Vài phút.
+   * Bối cảnh Thách thức / Hành động / Kết quả.
+   * Thiết kế (thay cho video/GIF):
+   * Sử dụng hình ảnh "Trước - Sau" (Before - After) để tạo hiệu ứng so sánh mạnh mẽ.
+   * Ảnh "Trước": Một ảnh chụp màn hình (screenshot) stylized, chỉ hiển thị một khung chat với một đoạn prompt (yêu cầu) ngắn gọn.
+   * Ảnh "Sau": Một ảnh chụp màn hình stylized, hiển thị một phần kết quả đầu ra rất dài, chuyên nghiệp và có cấu trúc tốt từ Twin AI (có thể hiện các mục lục, bảng biểu, gạch đầu dòng...).
+Trang 9: Bằng chứng Xã hội
+   * Nội dung: Giữ nguyên
+   * Headline: Được tin dùng bởi...
+   * Testimonials và Logo khách hàng.
+   * Thiết kế (thay cho animation):
+   * Trang này vốn đã rất phù hợp với định dạng tĩnh. Bố cục dạng thẻ (card) cho mỗi testimonial (gồm ảnh chân dung, trích dẫn, tên) và một lưới (grid) sạch sẽ cho các logo khách hàng là hoàn hảo.
+Trang 10: Kêu gọi Hành động
+   * Nội dung: Giữ nguyên
+   * Headline: Sẵn sàng nâng tầm hiệu suất...?
+   * Các nút CTA và thông tin liên hệ.
+   * Thiết kế (thay cho interactive buttons):
+   * Các nút CTA sẽ được thiết kế để trông "có thể nhấp được". Trong file PDF, chúng ta sẽ nhúng siêu liên kết (hyperlink) vào các nút này để khi người dùng nhấn vào sẽ mở ra trang web tương ứng.
+   * Đặc biệt hiệu quả trong PDF: Sử dụng một mã QR rõ ràng cho CTA "Trải nghiệm Twin AI". Người dùng xem PDF trên máy tính có thể dùng điện thoại quét mã này ngay lập tức.

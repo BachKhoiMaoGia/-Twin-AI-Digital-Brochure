@@ -1,0 +1,60 @@
+﻿Trang 1: Màn hình Mở đầu - 
+Gây Ấn Tượng & Đặt Vấn Đề
+I. NỘI DUNG CHÍNH (COPYWRITING)
+* 1.1. Tiêu đề chính (Headline):
+   * Sử dụng một câu hỏi ngắn gọn, mạnh mẽ, khơi gợi và trực diện vào "nỗi đau" của các nhà quản lý và chuyên gia trong bối cảnh AI hiện nay.
+   * Nội dung đề xuất:
+ Đội ngũ Marketing của bạn đang "lạc lối" trong kỷ nguyên AI?
+   * 1.2. Tiêu đề phụ (Subheading):
+   * Ngay lập tức định vị Twin AI như một giải pháp khác biệt và cao cấp hơn so với các công cụ thông thường.
+   * Nội dung đề xuất:
+ Twin AI: Trợ lý AI Chiến lược, không chỉ là Chatbot.
+      * 1.3. Logo:
+      * Logo của Twin AI được đặt ở vị trí trang trọng, thường là ở góc dưới cùng hoặc trên cùng, đảm bảo nhận diện thương hiệu.
+________________
+GỢI Ý VỀ THIẾT KẾ & TRẢI NGHIỆM NGƯỜI DÙNG (DESIGN & UX)
+I. PHIÊN BẢN 1: GIAO DIỆN 9:16 (MOBILE/STORY)
+         * 1.1. Bố cục (Layout):
+         * Tỷ lệ 9:16 (Full-screen trên điện thoại): Toàn bộ không gian màn hình được lấp đầy, không có viền trắng.
+         * Tập trung vào trung tâm: Tiêu đề chính và phụ nên được đặt ở trung tâm hoặc 1/3 phía trên của màn hình để thu hút ánh mắt đầu tiên.
+         * Sự tối giản: Tránh đưa quá nhiều chi tiết. Chỉ có 3-4 yếu tố chính: Headline, Sub-headline, Yếu tố tương tác, và Logo.
+         * 1.2. Hình ảnh/Video nền (Background Visual):
+         * Đây là yếu tố quyết định cảm xúc và sự chuyên nghiệp.
+         * Lựa chọn 1 (Hiện đại & Công nghệ - Khuyến khích):
+         * Sử dụng một video ngắn, lặp lại (looping video) làm nền. Video có thể là hình ảnh trừu tượng của các nơ-ron thần kinh kỹ thuật số, các luồng dữ liệu thông minh đang chuyển động chậm rãi trên một nền tối.
+         * Hiệu ứng: Video có chiều sâu, tạo cảm giác về một "bộ não" AI phức tạp nhưng hoạt động một cách trật tự.
+         * Lựa chọn 2 (Chuyên nghiệp & Con người):
+         * Một ảnh tĩnh chất lượng rất cao (cinematic photo) chụp một người (không rõ mặt) đang đứng trước một màn hình lớn hiển thị các biểu đồ, dữ liệu phức tạp, thể hiện sự tư duy và hoạch định chiến lược. Tông màu lạnh, chuyên nghiệp.
+         * 1.3. Màu sắc & Chữ viết (Color & Typography):
+
+            * Tông màu: Ưu tiên tông màu tối (Dark mode) như xanh navy đậm, đen, hoặc xám than để tạo cảm giác sang trọng, cao cấp và làm nổi bật phần chữ.
+            * Màu nhấn (Accent color): Sử dụng một màu nhấn như xanh electric, trắng hoặc màu đặc trưng của thương hiệu Twin AI cho các yếu tố chữ và tương tác.
+            * Font chữ:
+            * Headline: Sử dụng font không chân (Sans-serif) mạnh mẽ, hiện đại, rõ ràng (ví dụ: Montserrat Bold, Gilroy Bold). Kích thước lớn.
+            * Sub-headline: Sử dụng cùng font với headline nhưng ở dạng mỏng hơn (Regular hoặc Light) và kích thước nhỏ hơn.
+            * 1.4. Yếu tố Tương tác (Call-to-Scroll):
+            * Quan trọng để hướng dẫn người dùng lướt xuống trang tiếp theo.
+            * Cách thực hiện:
+            * Một icon mũi tên chevron (>) xoay xuống dưới đặt ở gần cuối màn hình. Icon này có thể có hiệu ứng nhấp nháy hoặc trôi nhẹ nhàng để thu hút sự chú ý.
+            * Đi kèm dòng chữ nhỏ xuất hiện sau khoảng 2 giây: "Lướt xuống để khám phá"
+________________
+II. PHIÊN BẢN 2: GIAO DIỆN 16:9 (DESKTOP/TRÌNH CHIẾU)
+               * 2.1. Bố cục (Layout):
+
+                  * Bố cục hai cột (Two-Column Layout): Tận dụng không gian ngang để phân chia khu vực nội dung và hình ảnh một cách rõ ràng.
+                  * Cột Trái (Khoảng 40% chiều ngang): Khu vực dành cho nội dung chữ. Đặt Headline, Sub-headline tại đây. Phía dưới có thể đặt một nút Kêu gọi hành động (CTA) chính. Cách bố trí này tạo ra một luồng đọc tự nhiên từ trên xuống dưới, từ trái qua phải.
+                  * Cột Phải (Khoảng 60% chiều ngang): Khu vực dành cho hình ảnh chủ đạo. Toàn bộ không gian này sẽ hiển thị video hoặc hình ảnh công nghệ ấn tượng, giúp truyền tải thông điệp một cách trực quan mà không bị chữ che lấp.
+                  * 2.2. Hình ảnh/Video chủ đạo (Key Visual):
+
+                     * Video hoặc hình ảnh công nghệ trừu tượng (như gợi ý ở phiên bản 9:16) sẽ được hiển thị trọn vẹn và mạnh mẽ ở cột bên phải.
+                     * Lựa chọn khác cho 16:9: Có thể hiển thị một ảnh chụp màn hình (screenshot) được thiết kế đẹp mắt (UI mockup) của giao diện dashboard Twin AI, cho thấy sự chuyên nghiệp và trực quan của sản phẩm ngay từ đầu.
+                     * 2.3. Màu sắc & Chữ viết (Color & Typography):
+
+                        * Vẫn giữ tông màu tối và font chữ hiện đại như phiên bản 9:16.
+                        * Cột bên trái có thể có một lớp nền mờ (semi-transparent overlay) để đảm bảo chữ viết luôn nổi bật và dễ đọc trên nền hình ảnh/video động.
+                        * 2.4. Yếu tố Tương tác (Call to Action - CTA):
+
+                           * Khác với việc "lướt xuống", với giao diện ngang, người dùng thường có xu hướng click chuột. Do đó, thay vì mũi tên chỉ xuống, chúng ta sẽ sử dụng một nút Kêu gọi hành động (CTA Button) nổi bật.
+                           * Vị trí: Đặt ở dưới phần Sub-headline trong cột bên trái.
+                           * Nội dung nút: "Khám phá Giải pháp" hoặc "Tìm hiểu thêm".
+                           * Thiết kế nút: Sử dụng màu nhấn của thương hiệu để thu hút sự chú ý.
