@@ -1,0 +1,16 @@
+{
+  "name": "twin-ai-brochure",
+  "version": "1.0.0",
+  "description": "Twin AI Digital Brochure PDF Export",
+  "main": "pdf-export.js",
+  "scripts": {
+    "export-pdf": "node pdf-export.js",
+    "serve": "python3 -m http.server 8000"
+  },
+  "dependencies": {
+    "puppeteer": "^21.11.0"
+  },
+  "author": "Twin AI",
+  "license": "MIT",
+  "keywords": []
+}
